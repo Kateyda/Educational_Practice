@@ -1,0 +1,252 @@
+[
+    {
+        "Name": "Bitcoin",
+        "Price": "$29,702.09",
+        "MarketCap": "$565,537,617,642"
+    },
+    {
+        "Name": "Ethereum",
+        "Price": "$2,030.84",
+        "MarketCap": "$245,296,076,985"
+    },
+    {
+        "Name": "Tether",
+        "Price": "$0.9988",
+        "MarketCap": "$75,664,938,446"
+    },
+    {
+        "Name": "USD Coin",
+        "Price": "$1.00",
+        "MarketCap": "$51,104,664,833"
+    },
+    {
+        "Name": "BNB",
+        "Price": "$292.78",
+        "MarketCap": "$47,804,388,968"
+    },
+    {
+        "Name": "XRP",
+        "Price": "$0.4207",
+        "MarketCap": "$20,338,820,616"
+    },
+    {
+        "Name": "Cardano",
+        "Price": "$0.5438",
+        "MarketCap": "$18,392,981,626"
+    },
+    {
+        "Name": "Binance USD",
+        "Price": "$1.00",
+        "MarketCap": "$17,740,264,983"
+    },
+    {
+        "Name": "Solana",
+        "Price": "$51.31",
+        "MarketCap": "$17,309,803,194"
+    },
+    {
+        "Name": "Dogecoin",
+        "Price": "$0.08807",
+        "MarketCap": "$11,684,623,783"
+    },
+    {
+        "Name": "Theta Fuel",
+        "Price": "$0.06952",
+        "MarketCap": "$368,522,981"
+    },
+    {
+        "Name": "yearn.finance",
+        "Price": "$10,033.48",
+        "MarketCap": "$367,603,663"
+    },
+    {
+        "Name": "Livepeer",
+        "Price": "$14.85",
+        "MarketCap": "$353,402,164"
+    },
+    {
+        "Name": "OMG Network",
+        "Price": "$2.52",
+        "MarketCap": "$352,906,207"
+    },
+    {
+        "Name": "ICON",
+        "Price": "$0.3834",
+        "MarketCap": "$352,550,169"
+    },
+    {
+        "Name": "0x",
+        "Price": "$0.4157",
+        "MarketCap": "$352,304,471"
+    },
+    {
+        "Name": "BORA",
+        "Price": "$0.3996",
+        "MarketCap": "$344,152,288"
+    },
+    {
+        "Name": "Serum",
+        "Price": "$1.28",
+        "MarketCap": "$335,700,485"
+    },
+    {
+        "Name": "Moonbeam",
+        "Price": "$1.23",
+        "MarketCap": "$335,373,639"
+    },
+    {
+        "Name": "Bitcoin Gold",
+        "Price": "$18.99",
+        "MarketCap": "$332,592,350"
+    },
+    {
+        "Name": "HEX",
+        "Price": "$0.1331",
+        "MarketCap": "$23,080,488,212"
+    },
+    {
+        "Name": "Wrapped TRON",
+        "Price": "$0.06864",
+        "MarketCap": "$6,978,962,001"
+    },
+    {
+        "Name": "Lido Staked ETH",
+        "Price": "$1,991.01",
+        "MarketCap": "$6,944,090,262"
+    },
+    {
+        "Name": "yOUcash",
+        "Price": "$0.4994",
+        "MarketCap": "$4,203,933,399"
+    },
+    {
+        "Name": "Bitcoin BEP2",
+        "Price": "$29,686.01",
+        "MarketCap": "$3,121,431,975"
+    },
+    {
+        "Name": "Terra",
+        "Price": "$0.000321",
+        "MarketCap": "$2,096,728,930"
+    },
+    {
+        "Name": "Toncoin",
+        "Price": "$1.55",
+        "MarketCap": "$1,887,173,410"
+    },
+    {
+        "Name": "Chain",
+        "Price": "$0.09166",
+        "MarketCap": "$1,553,790,859"
+    },
+    {
+        "Name": "DeFiChain",
+        "Price": "$3.03",
+        "MarketCap": "$1,548,223,413"
+    },
+    {
+        "Name": "Frax",
+        "Price": "$0.9973",
+        "MarketCap": "$1,480,815,791"
+    },
+    {
+        "Name": "Metahero",
+        "Price": "$0.01615",
+        "MarketCap": "$82,305,315"
+    },
+    {
+        "Name": "VeThor Token",
+        "Price": "$0.001799",
+        "MarketCap": "$82,067,385"
+    },
+    {
+        "Name": "Bitcoin Standard Hashrate Token",
+        "Price": "$7.17",
+        "MarketCap": "$81,882,020"
+    },
+    {
+        "Name": "Dawn Protocol",
+        "Price": "$1.11",
+        "MarketCap": "$81,826,185"
+    },
+    {
+        "Name": "Augur",
+        "Price": "$7.43",
+        "MarketCap": "$81,694,372"
+    },
+    {
+        "Name": "MyNeighborAlice",
+        "Price": "$2.66",
+        "MarketCap": "$81,373,459"
+    },
+    {
+        "Name": "ConstitutionDAO",
+        "Price": "$0.01603",
+        "MarketCap": "$81,117,640"
+    },
+    {
+        "Name": "Verge",
+        "Price": "$0.004899",
+        "MarketCap": "$80,855,339"
+    },
+    {
+        "Name": "Sport and Leisure",
+        "Price": "$0.1184",
+        "MarketCap": "$80,345,420"
+    },
+    {
+        "Name": "Bifrost (BFC)",
+        "Price": "$0.07199",
+        "MarketCap": "$79,916,868"
+    },
+    {
+        "Name": "XCAD Network",
+        "Price": "$2.10",
+        "MarketCap": "$50,926,073"
+    },
+    {
+        "Name": "ONUS",
+        "Price": "$0.5101",
+        "MarketCap": "$49,984,546"
+    },
+    {
+        "Name": "NEST Protocol",
+        "Price": "$0.02527",
+        "MarketCap": "$50,680,976"
+    },
+    {
+        "Name": "Loom Network",
+        "Price": "$0.0502",
+        "MarketCap": "$50,197,259"
+    },
+    {
+        "Name": "Aergo",
+        "Price": "$0.1359",
+        "MarketCap": "$49,810,294"
+    },
+    {
+        "Name": "Aurory",
+        "Price": "$5.18",
+        "MarketCap": "$49,694,117"
+    },
+    {
+        "Name": "Efforce",
+        "Price": "$0.09352",
+        "MarketCap": "$49,296,962"
+    },
+    {
+        "Name": "LCX",
+        "Price": "$0.0649",
+        "MarketCap": "$49,132,133"
+    },
+    {
+        "Name": "Carry",
+        "Price": "$0.00559",
+        "MarketCap": "$49,110,802"
+    },
+    {
+        "Name": "Alitas",
+        "Price": "$0.8084",
+        "MarketCap": "$48,502,524"
+    }
+]
